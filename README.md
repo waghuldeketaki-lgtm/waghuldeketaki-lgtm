@@ -40,13 +40,8 @@ A Python CLI-based application developed as part of a student project to manage 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/ketaki-waghulde-b5218032b
 
-## 📊 GitHub Stats
-![Ketaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=waghuldeketaki-lgtm&show_icons=true)
-
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=waghuldeketaki-lgtm)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waghuldeketaki-lgtm&theme=react-dark)
 
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waghuldeketaki-lgtm&layout=compact)
