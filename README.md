@@ -1,4 +1,6 @@
-![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Learning+Everyday;Building+Projects;Future+Engineer)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Learning+Everyday;Building+Projects;Future+Engineer" />
+</p>
 
 # Hi 👋, I'm Ketaki Waghulde
 
