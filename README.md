@@ -16,7 +16,15 @@
 
 ## 📂 Projects
 - 30 Days Java Challenge  
-👉 https://github.com/waghuldeketaki-lgtm/30-days-javachallenge  
+👉 https://github.com/waghuldeketaki-lgtm/30-days-javachallenge
+
+## 🚀 Featured Project
+
+### 🌱 Agriculture CEFP - Crop Management System
+A Python CLI-based application developed as part of a student project to manage agricultural crop data using JSON and CRUD operations.
+
+🔗 **GitHub Repository:**  
+👉 https://github.com/waghuldeketaki-lgtm/agriculture-cefp-project
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/ketaki-waghulde-b5218032b
