@@ -1,4 +1,4 @@
-https://readme-typing-svg.herokuapp.com?color=F700FF&lines=Computer+Engineering+Student;Java+Developer;Python+Learner
+![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Learning+Everyday;Building+Projects;Future+Engineer)
 
 # Hi 👋, I'm Ketaki Waghulde
 
