@@ -1,3 +1,5 @@
+![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Learning+Everyday;Building+Projects;Future+Engineer)
+
 # Hi 👋, I'm Ketaki Waghulde
 
 🎓 Computer Engineering Student  
@@ -8,7 +10,6 @@
 - Java
 - Cpp, Python
 - HTML, CSS
-
 ![Typing](https://readme-typing-svg.herokuapp.com?color=F700FF&lines=Computer+Engineering+Student;Java+Developer;Python+Learner;Future+Software+Engineer)
 
 ## 📌 Current Focus
