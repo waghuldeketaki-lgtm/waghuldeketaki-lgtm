@@ -50,3 +50,13 @@ A Python CLI-based application developed as part of a student project to manage 
 
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waghuldeketaki-lgtm&layout=compact)
+## 📊 Developer Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waghuldeketaki-lgtm&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waghuldeketaki-lgtm&layout=donut&theme=tokyonight" height="150"/>
+</p>
+
+![3D Graph](https://github-readme-activity-graph.vercel.app/graph?username=waghuldeketaki-lgtm&theme=react-dark&area=true)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waghuldeketaki-lgtm&theme=github_dark)
