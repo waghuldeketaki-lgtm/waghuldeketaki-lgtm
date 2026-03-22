@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm Ketaki Waghulde
 
-![Profile Views](https://komarev.com/ghpvc/?username=waghuldeketaki-lgtm&color=blue)
-
 🎓 Computer Engineering Student  
 💻 Passionate about Java & Problem Solving  
 🚀 Currently doing 30 Days Java Coding Challenge  
