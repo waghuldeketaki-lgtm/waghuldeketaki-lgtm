@@ -52,6 +52,4 @@ A Python CLI-based application developed as part of a student project to manage 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waghuldeketaki-lgtm&layout=donut&theme=tokyonight" height="150"/>
 </p>
 
-![3D Graph](https://github-readme-activity-graph.vercel.app/graph?username=waghuldeketaki-lgtm&theme=react-dark&area=true)
-
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waghuldeketaki-lgtm&theme=github_dark)
