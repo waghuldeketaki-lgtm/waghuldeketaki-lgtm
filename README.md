@@ -52,4 +52,10 @@ A Python CLI-based application developed as part of a student project to manage 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waghuldeketaki-lgtm&layout=donut&theme=tokyonight" height="150"/>
 </p>
 
+## 🚀 My GitHub Activity
+
+💡 Tracking my coding journey, contributions, and consistency:
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waghuldeketaki-lgtm&theme=github_dark)
+
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waghuldeketaki-lgtm&theme=github_dark)
